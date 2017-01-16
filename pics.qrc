@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Agents">
+        <file>Flame.jpg</file>
+        <file>masked_hero_fountain_by_liavcol-d7lrduf.jpg</file>
+        <file>masked_hero_inferno_by_liavcol-d7k39cr.jpg</file>
+        <file>obelisk.jpg</file>
+        <file>Zombie.jpg</file>
+        <file>dragon.jpg</file>
+        <file>1736359-629687_20110623_002.jpg</file>
+        <file>myth logo.png</file>
+        <file>pattern_background_dark_shadow_35092_1920x1200.jpg</file>
+        <file>mystic.mp3</file>
+        <file>death.jpg</file>
+    </qresource>
+</RCC>
